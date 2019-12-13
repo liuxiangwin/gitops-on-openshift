@@ -1,0 +1,1 @@
+# GitOps on OpenShift Sample
